@@ -1,0 +1,15 @@
+button {
+    color: blue;
+    
+}
+body {
+    background-color: aqua;
+}
+h1{
+    color: chocolate;
+}
+.leftOne{
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    size: 100px;
+}
